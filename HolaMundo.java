@@ -1,5 +1,7 @@
 public class HolaMundo {
     public static void main (String [] args) {
         System.out.ptintln("Hola Mundo");
+        System.out.ptintln("Bienvenidos a mi web");
+        System.out.ptintln("Espero que os guste");
     }
 }
